@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
 
-Li-Jen here, just starting to learn about github and software engineering.
-I have some experience in Java and C.
+I don't really care for Corn
+Nor do I like tomatos
+I also do not like terrible movies
